@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini-E-Card Pro",
+  "description": "A premium, AI-powered digital visiting card application that replaces traditional paper cards with a modern, interactive, and shareable solution.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
